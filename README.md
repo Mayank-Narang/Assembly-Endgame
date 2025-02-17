@@ -5,6 +5,9 @@ npm install
 npm start
 ```
 
+# Deployed project
+https://assembly-endgame-five.vercel.app/
+
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
 
